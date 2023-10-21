@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "title": "oppo mobile",
+      "brand": "oppo",
+      "catagory": "oppo y21",
+      "price": 200,
+      "id": 7
+    },
+    {
+      "title": "lava",
+      "brand": "chainies",
+      "catagory": "full metal body",
+      "price": 30,
+      "id": 8
+    },
+    {
+      "title": "ccg",
+      "brand": "gvvg",
+      "catagory": "hvgvh",
+      "price": 90,
+      "id": 9
+    },
+    {
+      "price": 22,
+      "id": 10
+    },
+    {
+      "title": "hnf",
+      "brand": "vb",
+      "catagory": "bgbg",
+      "price": 2321,
+      "id": 11
+    },
+    {
+      "title": "dvfbfn",
+      "brand": "zczv",
+      "catagory": "cfd",
+      "price": 121,
+      "id": 12
+    },
+    {
+      "title": "ewr",
+      "brand": "wr",
+      "catagory": "fs",
+      "price": 421,
+      "id": 13
+    },
+    {
+      "title": "NHN",
+      "brand": "CVXB",
+      "catagory": "BBG",
+      "price": 343,
+      "id": 14
+    }
+  ]
+}
